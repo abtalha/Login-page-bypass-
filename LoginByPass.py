@@ -70,7 +70,7 @@ def print_banner():
     ██   ██    ██    ██      ██    ██ ██       ██ ████   ██ 
     ███████    ██    ██      ██    ██ ██   ███ ██ ██ ██  ██ 
     ██   ██    ██    ██      ██    ██ ██    ██ ██ ██  ██ ██ 
-    ██   ██    ██    ███████  ██████   ██████  ██ ██   ████   v0.2 github.com/akinerkisa/HTLogin
+    ██   ██    ██    ███████  ██████   ██████  ██ ██   ████   v3.0 github.com/abtalha/Login-page-bypass-
     """
     print(banner)
 
